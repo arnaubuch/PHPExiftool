@@ -25,7 +25,7 @@
                 "source": {
                     "url": "https://github.com/exiftool/exiftool",
                     "type": "git",
-                    "reference": "12.42"
+                    "reference": "12.64"
                 }
             }
         }
